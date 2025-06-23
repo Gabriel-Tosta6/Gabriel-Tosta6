@@ -42,3 +42,11 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  - name: Generate Snake with dark background
+  run: |
+    npx @platane/snk@2.0.0 generate \
+    --output=github-contribution-grid-snake-dark.svg \
+    --color-scheme=dark \
+    --background=#0d1117
+
