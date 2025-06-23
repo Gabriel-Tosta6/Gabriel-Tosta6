@@ -2,7 +2,7 @@
 
 
 <div align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Tosta6&show_icons=true&theme=dark&layout=donut-vertical" />
+<img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Tosta6&show_icons=true&theme=dark&layout=compact" />
 </div>
 
 ## Skills Learned
