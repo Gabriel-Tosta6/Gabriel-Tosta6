@@ -22,7 +22,7 @@
 
 ### Design Tools I Use:
 <div style="display: inline_block">
-  <img align="center" alt="Gabriel-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Gabriel-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg">
   <img align="center" alt="Gabriel-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
 </div>
 
