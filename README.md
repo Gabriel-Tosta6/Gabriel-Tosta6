@@ -1,8 +1,7 @@
 ## Whats up! I'm Gabriel Tosta 🤙
 
-
 <div align="center" style="margin-bottom:100px">
-<img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Tosta6&show_icons=true&theme=dark&layout=compact" />
+  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Tosta6&show_icons=true&theme=dark&layout=compact" />
 </div>
 
 ## Skills Learned
@@ -13,11 +12,14 @@
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gabriel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 </div>
 
 ### Databases:
 <div style="display: inline_block">
   <img align="center" alt="Gabriel-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Gabriel-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
 
 ### Design Tools I Use:
@@ -43,6 +45,9 @@
 &nbsp;
 &nbsp;
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/Gabriel-Tosta6/Gabriel-Tosta6/output/github-contribution-grid-snake-dark.svg" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Tosta6/Gabriel-Tosta6/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Tosta6/Gabriel-Tosta6/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabriel-Tosta6/Gabriel-Tosta6/output/github-contribution-grid-snake.svg">
+</picture>
 
