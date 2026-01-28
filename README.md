@@ -1,8 +1,6 @@
 ## Whats up! I'm Gabriel Tosta 🤙
 
-<div align="center" style="margin-bottom:100px">
-  <img src="https://github.com/Gabriel-Tosta6/Gabriel-Tosta6/blob/main/metrics.plugin.languages.svg" alt="Metrics" width="100%">
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Tosta6)](https://github.com/Gabriel-Tosta6/github-readme-stats)
 
 ## Skills Learned
 
