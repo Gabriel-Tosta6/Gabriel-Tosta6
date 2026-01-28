@@ -1,8 +1,8 @@
 ## Whats up! I'm Gabriel Tosta 🤙
 
 <div align="center">
-  <img height="180em" src="https://github.com/Gabriel-Tosta6/Gabriel-Tosta6/blob/output/stats.svg?raw=true" alt="Gabriel Stats" />
-  <img height="180em" src="https://github.com/Gabriel-Tosta6/Gabriel-Tosta6/blob/output/langs.svg?raw=true" alt="Gabriel Langs" />
+  <img height="180em" src="https://raw.githubusercontent.com/Gabriel-Tosta6/Gabriel-Tosta6/main/stats.svg" alt="Gabriel Stats" />
+  <img height="180em" src="https://raw.githubusercontent.com/Gabriel-Tosta6/Gabriel-Tosta6/main/langs.svg" alt="Gabriel Langs" />
 </div>
 
 ## Skills Learned
