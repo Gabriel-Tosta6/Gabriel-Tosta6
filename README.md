@@ -1,6 +1,9 @@
 ## Whats up! I'm Gabriel Tosta 🤙
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Tosta6)](https://github.com/Gabriel-Tosta6/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Tosta6&show_icons=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Tosta6&layout=compact&langs_count=7&theme=transparent"/>
+</div>
 
 ## Skills Learned
 
@@ -34,18 +37,23 @@
 
 ## Contact me:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=White)](https://www.linkedin.com/in/gabriel-tosta1030/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tosta_m_x/)
-<a href="mailto:gtosta.01@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
+  <a href="https://www.linkedin.com/in/gabriel-tosta1030/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=White" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/tosta_m_x/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:gtosta.01@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 
 &nbsp;
 &nbsp;
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Tosta6/Gabriel-Tosta6/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Tosta6/Gabriel-Tosta6/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabriel-Tosta6/Gabriel-Tosta6/output/github-contribution-grid-snake.svg">
-</picture>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Tosta6/Gabriel-Tosta6/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Tosta6/Gabriel-Tosta6/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabriel-Tosta6/Gabriel-Tosta6/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
