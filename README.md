@@ -1,7 +1,7 @@
 ## Whats up! I'm Gabriel Tosta 🤙
 
 <div align="center" style="margin-bottom:100px">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Tosta6&show_icons=true&theme=dark&layout=compact" />
+  <img src="https://github.com/Gabriel-Tosta6/Gabriel-Tosta6/blob/main/metrics.plugin.languages.svg" alt="Metrics" width="100%">
 </div>
 
 ## Skills Learned
