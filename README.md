@@ -1,8 +1,8 @@
 ## Whats up! I'm Gabriel Tosta 🤙
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Tosta6&show_icons=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Tosta6&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github.com/Gabriel-Tosta6/Gabriel-Tosta6/blob/output/stats.svg?raw=true" alt="Gabriel Stats" />
+  <img height="180em" src="https://github.com/Gabriel-Tosta6/Gabriel-Tosta6/blob/output/langs.svg?raw=true" alt="Gabriel Langs" />
 </div>
 
 ## Skills Learned
