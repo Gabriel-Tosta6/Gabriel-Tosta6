@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="394.42638598644646" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="394.42638598644646" y="0" width="62.7263935842273" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.1527795706738" y="0" width="2.8472204293262537" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="394.6437645937855" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="394.6437645937855" y="0" width="62.518453602790245" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.1622181965757" y="0" width="2.837781803424283" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,7 +35,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>85.74%</div>
+                                <div>85.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -59,7 +59,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>13.64%</div>
+                                <div>13.59%</div>
                             </small>
                         </div>
                     </section>
