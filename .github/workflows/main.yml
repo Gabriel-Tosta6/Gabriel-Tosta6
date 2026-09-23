@@ -1,33 +1,74 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
-  schedule:
-    - cron: "0 0 * * *" 
   workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
   push:
     branches:
-    - master
-    - main
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 15
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Gerar a cobrinha
+      - name: Prepare output directory
+        run: mkdir -p dist
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: 'username=Gabriel-Tosta6&show_icons=true&theme=transparent&hide_border=true&title_color=A970FF&icon_color=9745F5&text_color=D1D5DB&ring_color=9745F5&include_all_commits=true'
+          path: dist/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: 'username=Gabriel-Tosta6&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=A970FF&text_color=D1D5DB'
+          path: dist/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: Gabriel-Tosta6
+          options: 'bg_color=0d0d0d&color=a970ff&line=9745f5&point=ffffff&area=true&area_color=54209b&hide_border=true'
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub Trophies
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: Gabriel-Tosta6
+          output_path: dist/github-trophies.svg
+          theme: dracula
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Gabriel-Tosta6
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+            dist/github-contribution-grid-snake.svg?color_snake=%239745F5&color_dots=%23F5F0FF,%23D7B8FF,%23A970FF,%237030A0,%2354209B
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23A970FF&color_dots=%230D0D0D,%232B1645,%2354209B,%237030A0,%23A970FF
 
-      - name: Enviar as imagens para a branch 'output'
+      - name: Publish SVG assets
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
