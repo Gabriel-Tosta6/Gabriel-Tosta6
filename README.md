@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,35:180B30,70:54209B,100:9745F5&height=230&section=header&text=Gabriel%20Tosta&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=DESENVOLVIMENTO%20%7C%20AUTOMACAO%20%7C%20TECNOLOGIA&descAlignY=57&descSize=15&animation=fadeIn" alt="Gabriel Tosta — Desenvolvimento, Automação e Tecnologia" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,35:180B30,70:54209B,100:9745F5&height=230&section=header&text=Gabriel%20Tosta&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=DESENVOLVIMENTO%20%7C%20AUTOMAÇÃO%20%7C%20TECNOLOGIA&descAlignY=57&descSize=15&animation=fadeIn" alt="Gabriel Tosta — Desenvolvimento, Automação e Tecnologia" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1100&color=A970FF&center=true&vCenter=true&width=700&height=55&lines=Desenvolvedor+Fullstack;JavaScript+%7C+TypeScript+%7C+Node.js;Tecnologia+aplicada+a+problemas+reais;Menos+processos+manuais.+Mais+eficiencia." alt="Animação de apresentação de Gabriel Tosta" />
@@ -159,5 +159,4 @@ Um dos projetos que representa essa conexão entre tecnologia e operação é o 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9745F5,50:54209B,100:080808&height=115&section=footer" alt="Rodapé roxo e preto" />
   <sub>DESENVOLVIDO POR</sub>
   <h3>Gabriel Tosta</h3>
-  <sub>CODE · AUTOMATION · SOLUTIONS</sub>
 </div>
