@@ -47,7 +47,13 @@ Um dos projetos que representa essa conexão entre tecnologia e operação é o 
 
 **Banco de dados e ambiente de desenvolvimento**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,vscode,git&theme=dark" alt="MySQL, VS Code e Git" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,vscode,vercel,git&theme=dark" alt="MySQL, VS Code e Git" />
+
+<br /><br />
+
+**Ferramentas de Design**
+
+<img src="https://skillicons.dev/icons?i=ps,ai&theme=dark" alt="MySQL, VS Code e Git" />
 
 <br /><br />
 
